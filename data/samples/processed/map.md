@@ -1,0 +1,1 @@
+67375127.140411201837_002510_002518: Low pass filtered at 900Hz (48db roll-off), amplified to max without clipping.
