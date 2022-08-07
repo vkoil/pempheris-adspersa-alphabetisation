@@ -1,1 +1,2 @@
-67375127.140411201837_002510_002518: Low pass filtered at 900Hz (48db roll-off), amplified to max without clipping.
+benchmark_67375127.140411201837_002510_002518: Low pass filtered at 700Hz (48db roll-off), amplified to max without clipping.
+processed_67375127.140411201837_002510_002518: Bandpass filtered between 90-700Hz. Applied noisereduce.reduce_noise() 2.0.1
